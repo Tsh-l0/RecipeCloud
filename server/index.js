@@ -5,8 +5,15 @@ const app = express();
 // Use PORT from environment or default to 3000
 const PORT = process.env.PORT || 3000;
 
+// Whitelist your frontend URL
+const allowedOrigins = ['https://recipecloud-1.onrender.com']; // <- your Render static frontend
+
+app.use(cors({
+  origin: allowedOrigins,
+  credentials: true
+}));
+
 // Middleware
-app.use(cors());
 app.use(express.json());
 
 // Routes
