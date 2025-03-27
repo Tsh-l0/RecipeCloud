@@ -6,7 +6,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 // Whitelist your frontend URL
-const allowedOrigins = ['https://recipecloud-1.onrender.com']; // <- your Render static frontend
+const allowedOrigins = ['https://recipecloud-0.onrender.com']; // <- your Render static frontend
 
 app.use(cors({
   origin: allowedOrigins,
