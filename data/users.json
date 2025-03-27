@@ -201,5 +201,43 @@
         "tags": []
       }
     ]
+  },
+  {
+    "username": "livetest",
+    "password": "$2b$10$t5gyE2nv/aVhUrWOxGVkdO6xC3eEkpFLeJHBZ94X9AYm7fcSPn8DK",
+    "favourites": [
+      {
+        "id": "52830",
+        "title": "Crock Pot Chicken Baked Tacos",
+        "category": "Chicken",
+        "area": "Mexican",
+        "thumbnail": "https://www.themealdb.com/images/media/meals/ypxvwv1505333929.jpg",
+        "instructions": "Put the uncooked chicken breasts in the crock pot. Pour the full bottle of salad dressing over the chicken. Sprinkle the rest of the ingredients over the top and mix them in a bit with a spoon.\r\nCover your crock pot with the lid and cook on high for 4 hours.\r\nRemove all the chicken breasts from the crock pot and let cool.\r\nShred the chicken breasts and move to a glass bowl.\r\nPour most of the liquid over the shredded chicken.\r\nFOR THE TACOS:\r\nMake the guacamole sauce by mixing the avocado and green salsa together. Pour the guacamole mixture through a strainer until smooth and transfer to a squeeze bottle. Cut the tip off the lid of the squeeze bottle to make the opening more wide if needed.\r\nMake the sour cream sauce by mixing the sour cream and milk together until you get a more liquid sour cream sauce. Transfer to a squeeze bottle.\r\nIn a 9x 13 glass baking dish, fill all 12+ tacos with a layer of refried beans, cooked chicken and shredded cheese.\r\nBake at 450 for 10-15 minutes just until the cheese is melted and bubbling.\r\nOut of the oven top all the tacos with the sliced grape tomaotes, jalapeno and cilantro.\r\nFinish with a drizzle of guacamole and sour cream.\r\nEnjoy!",
+        "tags": []
+      },
+      {
+        "id": "52818",
+        "title": "Chicken Fajita Mac and Cheese",
+        "category": "Chicken",
+        "area": "American",
+        "thumbnail": "https://www.themealdb.com/images/media/meals/qrqywr1503066605.jpg",
+        "instructions": "Fry your onion, peppers and garlic in olive oil until nicely translucent. Make a well in your veg and add your chicken. Add your seasoning and salt. Allow to colour slightly.\r\nAdd your cream, stock and macaroni.\r\nCook on low for 20 minutes. Add your cheeses, stir to combine.\r\nTop with roasted peppers and parsley.",
+        "tags": [
+          "Pasta",
+          "Cheasy",
+          "Meat"
+        ]
+      }
+    ]
+  },
+  {
+    "username": "login1",
+    "password": "$2b$10$SceVQ5I1V/q.scNrPL9.O.YleuhaukwYd4xykDFTJwY7sCkcjk5Va",
+    "favourites": []
+  },
+  {
+    "username": "login3",
+    "password": "$2b$10$cUI1D4PhKzK6YB/.Ovy9Fu4LxHttBzEyi0oqa9Ie9n8FR0mRAVITW",
+    "favourites": []
   }
 ]
