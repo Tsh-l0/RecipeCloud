@@ -1,10 +1,12 @@
 const express = require('express');
-const cors = require('cors'); // ✅ CORS added
+const cors = require('cors');
 const app = express();
-const PORT = 3000;
+
+// Use PORT from environment or default to 3000
+const PORT = process.env.PORT || 3000;
 
 // Middleware
-app.use(cors()); // ✅ CORS middleware
+app.use(cors());
 app.use(express.json());
 
 // Routes
@@ -22,5 +24,5 @@ app.get('/', (req, res) => {
 
 // Start Server
 app.listen(PORT, () => {
-  console.log(`Server running at http://localhost:${PORT}`);
+  console.log(`Server running on port ${PORT}`);
 });
