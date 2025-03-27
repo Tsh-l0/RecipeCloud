@@ -1,0 +1,182 @@
+/* 🌐 Global Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Segoe UI', sans-serif;
+    background: #f9f9f9;
+    color: #333;
+    line-height: 1.6;
+    padding: 2rem;
+    max-width: 1000px;
+    margin: auto;
+  }
+  
+  h1 {
+    text-align: center;
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
+    color: #d45d79;
+  }
+  
+  /* 🎟️ Section Styles */
+  section {
+    background: white;
+    padding: 1.5rem;
+    border-radius: 12px;
+    margin-bottom: 2rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  }
+  
+  h2 {
+    margin-bottom: 1rem;
+    color: #555;
+  }
+  
+  /* 🧾 Inputs + Buttons */
+  input {
+    padding: 0.6rem;
+    width: calc(100% - 1.4rem);
+    margin-bottom: 0.8rem;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+  }
+  
+  button {
+    background: #d45d79;
+    color: white;
+    border: none;
+    padding: 0.6rem 1.2rem;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 0.5rem;
+    transition: background 0.3s;
+  }
+  
+  button:hover {
+    background: #b44161;
+  }
+  
+  /* 🍲 Recipe Cards + Faves */
+  #results > div, #api-results > div, #scraped-results > div, #fave-list > li {
+    border: 1px solid #eee;
+    padding: 1rem;
+    border-radius: 12px;
+    margin-bottom: 1rem;
+    background: #fff;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.05);
+  }
+  
+  #results h3, #api-results h4, #scraped-results h4 {
+    margin-bottom: 0.3rem;
+    color: #333;
+  }
+  
+  #results p, #api-results p, #scraped-results p {
+    margin-bottom: 0.5rem;
+  }
+  
+  #fave-list li {
+    list-style: none;
+    background: #fff;
+    font-weight: 500;
+  }
+  
+  /* 📱 Responsive */
+  @media (max-width: 600px) {
+    body {
+      padding: 1rem;
+    }
+  
+    input, button {
+      width: 100%;
+    }
+  }
+  
+  /* 🌐 Navbar Styles */
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #d45d79;
+    color: white;
+    padding: 1rem 2rem;
+    border-radius: 12px;
+    margin-bottom: 2rem;
+  }
+  
+  .navbar .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .navbar .menu-icon {
+    font-size: 1.8rem;
+    cursor: pointer;
+    display: none;
+  }
+  
+  .navbar .nav-links {
+    display: flex;
+    gap: 1rem;
+    list-style: none;
+  }
+  
+  .navbar .nav-links li a {
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+  }
+  
+  /* 📱 Responsive Nav */
+  @media (max-width: 768px) {
+    .navbar .menu-icon {
+      display: block;
+    }
+  
+    .navbar .nav-links {
+      display: none;
+      flex-direction: column;
+      background: #d45d79;
+      position: absolute;
+      top: 70px;
+      left: 0;
+      width: 100%;
+      padding: 1rem;
+      z-index: 10;
+    }
+  
+    .navbar .nav-links.show {
+      display: flex;
+    }
+  }
+  
+  /* ℹ️ About Section */
+  #about {
+    background: #fff5f8;
+    border: 1px solid #f7cfd8;
+    margin-bottom: 2rem;
+    border-radius: 12px;
+  }
+  
+  #about p {
+    margin-top: 0.5rem;
+    color: #444;
+    font-size: 1.1rem;
+  }
+  #api-results p, #scraped-results p {
+    max-height: 300px;
+    overflow-y: auto;
+    white-space: pre-wrap;
+  }
+  .recipe-img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 0.5rem;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+  }
+  

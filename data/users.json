@@ -1,0 +1,205 @@
+[
+  {
+    "username": "thato",
+    "password": "$2b$10$OTv2mhDYMWrOToZ1SgaZoeIvxJtwuaczu.QfeZ6G.k/wO5i/5FGAC",
+    "favourites": []
+  },
+  {
+    "username": "chefthato",
+    "password": "$2b$10$/VGBYYtmOTZUMIu4HISrPO03gOsUuKP4bP9t5To2Wp5Bbc49B1w6u",
+    "favourites": [
+      {
+        "id": "RC001",
+        "title": "Easy Creamy Pasta",
+        "time": "25 min"
+      }
+    ]
+  },
+  {
+    "username": "FrontTest",
+    "password": "$2b$10$/OKkjt1UwRa1MFY65z85U.gvSL06KaIa3CFKUQHlXoQpWjx.GT3e2",
+    "favourites": [
+      {
+        "id": "53071",
+        "title": "Beef Asado",
+        "category": "Beef",
+        "area": "Filipino",
+        "thumbnail": "https://www.themealdb.com/images/media/meals/pkopc31683207947.jpg",
+        "instructions": "0.\tCombine beef, crushed peppercorn, soy sauce, vinegar, dried bay leaves, lemon, and tomato sauce. Mix well. Marinate beef for at least 30 minutes.\r\n1.\tPut the marinated beef in a cooking pot along with remaining marinade. Add water. Let boil.\r\n2.\tAdd Knorr Beef Cube. Stir. Cover the pot and cook for 40 minutes in low heat.\r\n3.\tTurn the beef over. Add tomato paste. Continue cooking until beef tenderizes. Set aside.\r\n4.\tHeat oil in a pan. Fry the potato until it browns. Turn over and continue frying the opposite side. Remove from the pan and place on a clean plate. Do the same with the carrots.\r\n5.\tSave 3 tablespoons of cooking oil from the pan where the potato was fried. Saute onion and garlic until onion softens.\r\n6.\tPour-in the sauce from the beef stew. Let boil. Add the beef. Cook for 2 minutes.\r\n7.\tAdd butter and let it melt. Continue cooking until the sauce reduces to half.",
+        "tags": []
+      },
+      {
+        "id": "53053",
+        "title": "Beef Rendang",
+        "category": "Beef",
+        "area": "Malaysian",
+        "thumbnail": "https://www.themealdb.com/images/media/meals/bc8v651619789840.jpg",
+        "instructions": "Chop the spice paste ingredients and then blend it in a food processor until fine.\r\nHeat the oil in a stew pot, add the spice paste, cinnamon, cloves, star anise, and cardamom and stir-fry until aromatic. Add the beef and the pounded lemongrass and stir for 1 minute. Add the coconut milk, tamarind juice, water, and simmer on medium heat, stirring frequently until the meat is almost cooked. Add the kaffir lime leaves, kerisik (toasted coconut), sugar or palm sugar, stirring to blend well with the meat.\r\nLower the heat to low, cover the lid, and simmer for 1 to 1 1/2 hours or until the meat is really tender and the gravy has dried up. Add more salt and sugar to taste. Serve immediately with steamed rice and save some for overnight.",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "username": "tsholo",
+    "password": "$2b$10$IYss1ikNWQu7r0D5RiXRvuO4YkUnaafRolr6XBvS/Bu8vY6cby2Ta",
+    "favourites": [
+      {
+        "id": "53032",
+        "title": "Tonkatsu pork",
+        "category": "Pork",
+        "area": "Japanese",
+        "thumbnail": "https://www.themealdb.com/images/media/meals/lwsnkl1604181187.jpg",
+        "instructions": "STEP 1\r\nRemove the large piece of fat on the edge of each pork loin, then bash each of the loins between two pieces of baking parchment until around 1cm in thickness – you can do this using a meat tenderiser or a rolling pin. Once bashed, use your hands to reshape the meat to its original shape and thickness – this step will ensure the meat is as succulent as possible.\r\n\r\nSTEP 2\r\nPut the flour, eggs and panko breadcrumbs into three separate wide-rimmed bowls. Season the meat, then dip first in the flour, followed by the eggs, then the breadcrumbs.\r\n\r\nSTEP 3\r\nIn a large frying or sauté pan, add enough oil to come 2cm up the side of the pan. Heat the oil to 180C – if you don’t have a thermometer, drop a bit of panko into the oil and if it sinks a little then starts to fry, the oil is ready. Add two pork chops and cook for 1 min 30 secs on each side, then remove and leave to rest on a wire rack for 5 mins. Repeat with the remaining pork chops.\r\n\r\nSTEP 4\r\nWhile the pork is resting, make the sauce by whisking the ingredients together, adding a splash of water if it’s particularly thick. Slice the tonkatsu and serve drizzled with the sauce.",
+        "tags": []
+      },
+      {
+        "id": "52847",
+        "title": "Pork Cassoulet",
+        "category": "Pork",
+        "area": "French",
+        "thumbnail": "https://www.themealdb.com/images/media/meals/wxuvuv1511299147.jpg",
+        "instructions": "Heat oven to 140C/120C fan/gas 1. Put a large ovenproof pan (with a tight-fitting lid) on a high heat. Add your fat and diced meat, cook for a few mins to seal the edges, giving it a quick stir to cook evenly. Reduce the heat to low, add the sliced onion, whole garlic cloves, carrot and fennel seeds, and cook gently to soften the veg for a few mins.\r\nPour over the red wine vinegar, scraping any meaty bits off the bottom of the pan. Add the stock, tomato purée, and half the rosemary and parsley. Bring to the boil and simmer for 10 mins, then season, cover with a lid and put into the oven for 2 hrs, removing the lid for the final hour of cooking. Stir occasionally and add the beans with 30 mins to go.\r\nRemove the pan from the oven and heat the grill. Scatter the top with the remaining herbs and breadcrumbs, drizzle a little oil over the top, and return to the oven for 5-10 mins, until the breadcrumbs are golden. Serve with crusty bread and green veg.",
+        "tags": []
+      },
+      {
+        "id": "52949",
+        "title": "Sweet and Sour Pork",
+        "category": "Pork",
+        "area": "Chinese",
+        "thumbnail": "https://www.themealdb.com/images/media/meals/1529442316.jpg",
+        "instructions": "Preparation\r\n1. Crack the egg into a bowl. Separate the egg white and yolk.\r\n\r\nSweet and Sour Pork\r\n2. Slice the pork tenderloin into strips.\r\n\r\n3. Prepare the marinade using a pinch of salt, one teaspoon of starch, two teaspoons of light soy sauce, and an egg white.\r\n\r\n4. Marinade the pork strips for about 20 minutes.\r\n\r\n5. Put the remaining starch in a bowl. Add some water and vinegar to make a starchy sauce.\r\n\r\nSweet and Sour Pork\r\nCooking Instructions\r\n1. Pour the cooking oil into a wok and heat to 190°C (375°F). Add the marinated pork strips and fry them until they turn brown. Remove the cooked pork from the wok and place on a plate.\r\n\r\n2. Leave some oil in the wok. Put the tomato sauce and white sugar into the wok, and heat until the oil and sauce are fully combined.\r\n\r\n3. Add some water to the wok and thoroughly heat the sweet and sour sauce before adding the pork strips to it.\r\n\r\n4. Pour in the starchy sauce. Stir-fry all the ingredients until the pork and sauce are thoroughly mixed together.\r\n\r\n5. Serve on a plate and add some coriander for decoration.",
+        "tags": [
+          "Sweet"
+        ]
+      },
+      {
+        "id": "52995",
+        "title": "BBQ Pork Sloppy Joes",
+        "category": "Pork",
+        "area": "American",
+        "thumbnail": "https://www.themealdb.com/images/media/meals/atd5sh1583188467.jpg",
+        "instructions": "1\r\n\r\nPreheat oven to 450 degrees. Wash and dry all produce. Cut sweet potatoes into ½-inch-thick wedges. Toss on a baking sheet with a drizzle of oil, salt, and pepper. Roast until browned and tender, 20-25 minutes.\r\n\r\n2\r\n\r\nMeanwhile, halve and peel onion. Slice as thinly as possible until you have ¼ cup (½ cup for 4 servings); finely chop remaining onion. Peel and finely chop garlic. Halve lime; squeeze juice into a small bowl. Halve buns. Add 1 TBSP butter (2 TBSP for 4) to a separate small microwave-safe bowl; microwave until melted, 30 seconds. Brush onto cut sides of buns.\r\n\r\n3\r\n\r\nTo bowl with lime juice, add sliced onion, ¼ tsp sugar (½ tsp for 4 servings), and a pinch of salt. Stir to combine; set aside to quick-pickle.\r\n\r\n4\r\n\r\nHeat a drizzle of oil in a large pan over medium-high heat. Add chopped onion and season with salt and pepper. Cook, stirring, until softened, 4-5 minutes. Add garlic and cook until fragrant, 30 seconds more. Add pork and season with salt and pepper. Cook, breaking up meat into pieces, until browned and cooked through, 4-6 minutes.\r\n\r\n5\r\n\r\nWhile pork cooks, in a third small bowl, combine BBQ sauce, pickling liquid from onion, 3 TBSP ketchup (6 TBSP for 4 servings), ½ tsp sugar (1 tsp for 4), and ¼ cup water (⅓ cup for 4). Once pork is cooked through, add BBQ sauce mixture to pan. Cook, stirring, until sauce is thickened, 2-3 minutes. Taste and season with salt and pepper.\r\n\r\n6\r\n\r\nMeanwhile, toast buns in oven or toaster oven until golden, 3-5 minutes. Divide toasted buns between plates and fill with as much BBQ pork as you’d like. Top with pickled onion and hot sauce. Serve with sweet potato wedges on the side.",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "username": "testing",
+    "password": "$2b$10$DdFTbmj0YwhLekTSIxrAqOMx169Yq3ofkRW8RcTwplZTbDhdD0tL.",
+    "favourites": [
+      {
+        "title": "Scraped chicken Recipe",
+        "category": "Scraped",
+        "instructions": "This is a placeholder. Replace with real scraped data.",
+        "time": "30 min"
+      },
+      {
+        "id": "52818",
+        "title": "Chicken Fajita Mac and Cheese",
+        "category": "Chicken",
+        "area": "American",
+        "thumbnail": "https://www.themealdb.com/images/media/meals/qrqywr1503066605.jpg",
+        "instructions": "Fry your onion, peppers and garlic in olive oil until nicely translucent. Make a well in your veg and add your chicken. Add your seasoning and salt. Allow to colour slightly.\r\nAdd your cream, stock and macaroni.\r\nCook on low for 20 minutes. Add your cheeses, stir to combine.\r\nTop with roasted peppers and parsley.",
+        "tags": [
+          "Pasta",
+          "Cheasy",
+          "Meat"
+        ]
+      },
+      {
+        "id": "53020",
+        "title": "Rosol (Polish Chicken Soup)",
+        "category": "Chicken",
+        "area": "Polish",
+        "thumbnail": "https://www.themealdb.com/images/media/meals/lx1kkj1593349302.jpg",
+        "instructions": "Add chicken to a large Dutch oven or stock pot \r\nCover with water\r\nBring to a boil and simmer for 2 to 2 1/2 hours, skimming any impurities off the top to insure a clear broth\r\nIf your pot is big enough, add the vegetables and spices for the last hour of the cooking time\r\nMy Dutch oven wasn’t big enough to hold everything, just the chicken and other bones filled the pot, so I cooked the meat/bones for the full cooking time, then removed them, and cooked the vegetables and spices separately\r\nStrain everything out of the broth\r\nBone the chicken, pulling the meat into large chunks\r\nSlice the carrots\r\nReturn the chicken and carrots to the broth\r\nCook noodles according to package instructions if you’re using them\r\nAdd noodles to bowl and then top with hot soup",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "username": "food",
+    "password": "$2b$10$gur/yeac8RKKhx.nGEpSaee4v1yp0O6EwXHMXYcHPDwCaRT2cHvyG",
+    "favourites": [
+      {
+        "id": "52775",
+        "title": "Vegan Lasagna",
+        "category": "Vegan",
+        "area": "Italian",
+        "thumbnail": "https://www.themealdb.com/images/media/meals/rvxxuy1468312893.jpg",
+        "instructions": "1) Preheat oven to 180 degrees celcius. \r\n2) Boil vegetables for 5-7 minutes, until soft. Add lentils and bring to a gentle simmer, adding a stock cube if desired. Continue cooking and stirring until the lentils are soft, which should take about 20 minutes. \r\n3) Blanch spinach leaves for a few minutes in a pan, before removing and setting aside. \r\n4) Top up the pan with water and cook the lasagne sheets. When cooked, drain and set aside.\r\n5) To make the sauce, melt the butter and add the flour, then gradually add the soya milk along with the mustard and the vinegar. Cook and stir until smooth and then assemble the lasagne as desired in a baking dish. \r\n6) Bake in the preheated oven for about 25 minutes.",
+        "tags": [
+          "Vegan",
+          "Pasta"
+        ]
+      },
+      {
+        "id": "52987",
+        "title": "Lasagna Sandwiches",
+        "category": "Pasta",
+        "area": "American",
+        "thumbnail": "https://www.themealdb.com/images/media/meals/xr0n4r1576788363.jpg",
+        "instructions": "1. In a small bowl, combine the first four ingredients; spread on four slices of bread. Layer with bacon, tomato and cheese; top with remaining bread.\r\n\r\n2. In a large skillet or griddle, melt 2 tablespoons butter. Toast sandwiches until lightly browned on both sides and cheese is melted, adding butter if necessary.\r\n\r\nNutrition Facts\r\n1 sandwich: 445 calories, 24g fat (12g saturated fat), 66mg cholesterol, 1094mg sodium, 35g carbohydrate (3g sugars, 2g fiber), 21g protein.",
+        "tags": [
+          "Sandwich"
+        ]
+      },
+      {
+        "id": "53071",
+        "title": "Beef Asado",
+        "category": "Beef",
+        "area": "Filipino",
+        "thumbnail": "https://www.themealdb.com/images/media/meals/pkopc31683207947.jpg",
+        "instructions": "0.\tCombine beef, crushed peppercorn, soy sauce, vinegar, dried bay leaves, lemon, and tomato sauce. Mix well. Marinate beef for at least 30 minutes.\r\n1.\tPut the marinated beef in a cooking pot along with remaining marinade. Add water. Let boil.\r\n2.\tAdd Knorr Beef Cube. Stir. Cover the pot and cook for 40 minutes in low heat.\r\n3.\tTurn the beef over. Add tomato paste. Continue cooking until beef tenderizes. Set aside.\r\n4.\tHeat oil in a pan. Fry the potato until it browns. Turn over and continue frying the opposite side. Remove from the pan and place on a clean plate. Do the same with the carrots.\r\n5.\tSave 3 tablespoons of cooking oil from the pan where the potato was fried. Saute onion and garlic until onion softens.\r\n6.\tPour-in the sauce from the beef stew. Let boil. Add the beef. Cook for 2 minutes.\r\n7.\tAdd butter and let it melt. Continue cooking until the sauce reduces to half.",
+        "tags": []
+      },
+      {
+        "id": "52952",
+        "title": "Beef Lo Mein",
+        "category": "Beef",
+        "area": "Chinese",
+        "thumbnail": "https://www.themealdb.com/images/media/meals/1529444830.jpg",
+        "instructions": "STEP 1 - MARINATING THE BEEF\r\nIn a bowl, add the beef, salt, 1 pinch white pepper, 1 Teaspoon sesame seed oil, 1/2 egg, corn starch,1 Tablespoon of oil and mix together.\r\nSTEP 2 - BOILING THE THE NOODLES\r\nIn a 6 qt pot add your noodles to boiling water until the noodles are submerged and boil on high heat for 10 seconds. After your noodles is done boiling strain and cool with cold water.\r\nSTEP 3 - STIR FRY\r\nAdd 2 Tablespoons of oil, beef and cook on high heat untill beef is medium cooked.\r\nSet the cooked beef aside\r\nIn a wok add 2 Tablespoon of oil, onions, minced garlic, minced ginger, bean sprouts, mushrooms, peapods and 1.5 cups of water or until the vegetables are submerged in water.\r\nAdd the noodles to wok\r\nTo make the sauce, add oyster sauce, 1 pinch white pepper, 1 teaspoon sesame seed oil, sugar, and 1 Teaspoon of soy sauce.\r\nNext add the beef to wok and stir-fry",
+        "tags": []
+      },
+      {
+        "id": "53071",
+        "title": "Beef Asado",
+        "category": "Beef",
+        "area": "Filipino",
+        "thumbnail": "https://www.themealdb.com/images/media/meals/pkopc31683207947.jpg",
+        "instructions": "0.\tCombine beef, crushed peppercorn, soy sauce, vinegar, dried bay leaves, lemon, and tomato sauce. Mix well. Marinate beef for at least 30 minutes.\r\n1.\tPut the marinated beef in a cooking pot along with remaining marinade. Add water. Let boil.\r\n2.\tAdd Knorr Beef Cube. Stir. Cover the pot and cook for 40 minutes in low heat.\r\n3.\tTurn the beef over. Add tomato paste. Continue cooking until beef tenderizes. Set aside.\r\n4.\tHeat oil in a pan. Fry the potato until it browns. Turn over and continue frying the opposite side. Remove from the pan and place on a clean plate. Do the same with the carrots.\r\n5.\tSave 3 tablespoons of cooking oil from the pan where the potato was fried. Saute onion and garlic until onion softens.\r\n6.\tPour-in the sauce from the beef stew. Let boil. Add the beef. Cook for 2 minutes.\r\n7.\tAdd butter and let it melt. Continue cooking until the sauce reduces to half.",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "username": "tsholo8",
+    "password": "$2b$10$yspPx1TyxaAtIrNNeNLu/.6izCkz/n14ZP.3aXsl/8ivSM9mHAwka",
+    "favourites": [
+      {
+        "id": "52802",
+        "title": "Fish pie",
+        "category": "Seafood",
+        "area": "British",
+        "thumbnail": "https://www.themealdb.com/images/media/meals/ysxwuq1487323065.jpg",
+        "instructions": "01.Put the potatoes in a large pan of cold salted water and bring to the boil. Lower the heat, cover, then simmer gently for 15 minutes until tender. Drain, then return to the pan over a low heat for 30 seconds to drive off any excess water. Mash with 1 tbsp olive oil, then season.\r\n02.Meanwhile put the milk in a large sauté pan, add the fish and bring to the boil. Remove from the heat, cover and stand for 3 minutes. Remove the fish (reserving the milk) and pat dry with kitchen paper, then gently flake into an ovenproof dish, discarding the skin and any bones.\r\n03.Heat the remaining oil in a pan, stir in the flour and cook for 30 seconds. Gradually stir in 200-250ml of the reserved milk (discard the rest). Grate in nutmeg, season, then bubble until thick. Stir in the cream.\r\n04.Preheat the oven to 190°C/fan170°C/gas 5. Grate the artichokes and add to the dish with the leek, prawns and herbs. Stir the lemon zest and juice into the sauce, then pour over. Mix gently with a wooden spoon.\r\n05.Spoon the mash onto the fish mixture, then use a fork to make peaks, which will crisp and brown as it cooks. Sprinkle over the cheese, then bake for 35-40 minutes until golden and bubbling. Serve with wilted greens.",
+        "tags": [
+          "Fish",
+          "Pie",
+          "Breakfast",
+          "Baking"
+        ]
+      },
+      {
+        "id": "53045",
+        "title": "Portuguese fish stew (Caldeirada de peixe)",
+        "category": "Seafood",
+        "area": "Portuguese",
+        "thumbnail": "https://www.themealdb.com/images/media/meals/do7zps1614349775.jpg",
+        "instructions": "STEP 1\r\n\r\nHeat a drizzle of oil in a large, deep-sided frying pan, and fry the onion and pepper on a medium heat until softened but not browned. Finely chop the coriander stalks (keep the leaves for later), and add to the pan with the chilli and chopped garlic. Fry for another few minutes. Add the wine, saffron and bay leaf and let it simmer until reduced by half.\r\n\r\nSTEP 2\r\n\r\nAdd the potatoes, tomatoes, and 300ml water and bring to a gentle boil. Break up the tomatoes with a spoon on the side of the pan and simmer for 20-25 minutes until the potatoes are just tender, and the tomatoes have broken down.\r\n\r\nSTEP 3\r\n\r\nSeason well, then gently push the fish into the sauce, and arrange the squid, prawns, clams and mussels on the surface. Put the lid on and cook for 6-8 minutes until the mussel and clam shells have opened, the prawns are cooked and the fish is flaky. Toast the bread, rub lightly with the halved garlic clove and drizzle with olive oil. Serve the stew scatted with chopped coriander leaves, and the toasts for dunking.",
+        "tags": []
+      }
+    ]
+  }
+]
