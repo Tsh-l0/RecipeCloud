@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>RecipeCloud</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: 'Poppins', sans-serif;
+      background: #fffaf6;
+      color: #333;
+    }
+    a { color: #cc2f2f; text-decoration: none; transition: 0.3s; }
+    a:hover { text-decoration: underline; }
+
+    header {
+      background: #fff;
+      padding: 1.5rem 2rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-bottom: 1px solid #ddd;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+
+    .nav-links {
+      display: flex;
+      gap: 1.5rem;
+    }
+
+    .hero {
+      padding: 4rem 2rem;
+      text-align: center;
+      background: linear-gradient(to right, #fff5f0, #fffaf6);
+    }
+    .hero h1 {
+      font-size: 3rem;
+      color: #cc2f2f;
+    }
+    .hero p {
+      font-size: 1.2rem;
+      margin: 1rem 0 2rem;
+      color: #555;
+    }
+    .launch-btn {
+      background: #cc2f2f;
+      color: #fff;
+      padding: 0.75rem 1.5rem;
+      font-weight: bold;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    .launch-btn:hover {
+      background: #a82424;
+    }
+
+    .features {
+      padding: 4rem 2rem;
+      background: #fefefe;
+    }
+    .features h2 {
+      text-align: center;
+      color: #cc2f2f;
+      margin-bottom: 2.5rem;
+    }
+    .feature-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 2rem;
+    }
+    .feature-card {
+      background: #fff6f2;
+      border-radius: 10px;
+      padding: 1.5rem;
+      text-align: center;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+    }
+    .feature-card img {
+      width: 100%;
+      max-height: 180px;
+      object-fit: cover;
+      border-radius: 8px;
+      margin-bottom: 1rem;
+    }
+
+    .about {
+      padding: 4rem 2rem;
+      background: #f9f9f9;
+    }
+    .about h2 {
+      text-align: center;
+      color: #cc2f2f;
+      margin-bottom: 2rem;
+    }
+    .about p {
+      max-width: 800px;
+      margin: 0 auto 2rem;
+      color: #555;
+      text-align: center;
+    }
+    .team-links {
+      display: flex;
+      justify-content: center;
+      gap: 2rem;
+      flex-wrap: wrap;
+    }
+
+    footer {
+      background: #fff3f0;
+      padding: 2rem;
+      text-align: center;
+      color: #888;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Header -->
+  <header>
+    <div><strong>RecipeCloud</strong></div>
+    <nav class="nav-links">
+      <a href="#features">Features</a>
+      <a href="#about">About</a>
+      <a href="#launch">Launch</a>
+    </nav>
+  </header>
+
+  <!-- Hero -->
+  <section class="hero">
+    <h1>RecipeCloud</h1>
+    <p>Your personal recipe vault in the cloud ☁️</p>
+    <a id="launch" href="https://recipecloud.onrender.com">
+      <button class="launch-btn">Try RecipeCloud</button>
+    </a>
+  </section>
+
+  <!-- Features -->
+  <section class="features" id="features">
+    <h2>Why You'll Love It</h2>
+    <div class="feature-grid">
+      <div class="feature-card">
+        <img src="https://via.placeholder.com/400x200" alt="Upload Recipes">
+        <h3>Upload Your Own</h3>
+        <p>Store family recipes, cooking secrets, and your own creations – all in one place.</p>
+      </div>
+      <div class="feature-card">
+        <img src="https://via.placeholder.com/400x200" alt="Search Database">
+        <h3>Smart Recipe Search</h3>
+        <p>Discover new dishes by ingredients, tags, or cuisine using our MealDB + scraper combo.</p>
+      </div>
+      <div class="feature-card">
+        <img src="https://via.placeholder.com/400x200" alt="Community Share">
+        <h3>Share & Inspire</h3>
+        <p>Let others enjoy your recipes and explore creations by other food lovers.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- About -->
+  <section class="about" id="about">
+    <h2>How RecipeCloud Was Cooked Up</h2>
+    <p>
+      I created RecipeCloud because food should be easy to find, store, and share – especially your own!
+      After constantly losing recipes across notes, screenshots and bookmarks, I wanted a central place that 
+      feels personal yet shareable. RecipeCloud is the answer. 
+      This is part of my ALX Software Engineering portfolio – and it’s just the beginning.
+    </p>
+    <div class="team-links">
+      <a href="https://github.com/yourprofile" target="_blank">GitHub</a>
+      <a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn</a>
+      <a href="https://twitter.com/yourhandle" target="_blank">Twitter</a>
+      <a href="https://github.com/BakaneN/RecipeCloud" target="_blank">Project Repo</a>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    © 2025 RecipeCloud – Built with flavor 💡🍝
+  </footer>
+
+</body>
+</html>
